@@ -1,0 +1,3 @@
+GetCourseDetailsRequest -> GetCourseDetailsResponse
+input -> id-123
+out -> name,description , id
